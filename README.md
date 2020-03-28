@@ -1,0 +1,1 @@
+# wc-scheduled-onsales-shortcode
